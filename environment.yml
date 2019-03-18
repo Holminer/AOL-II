@@ -5,6 +5,7 @@ channels:
 dependencies:
   - python
   - rise
+  - nbconvert=5.4.1
   - pip:
     - numpy
     - matplotlib
